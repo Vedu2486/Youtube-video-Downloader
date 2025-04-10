@@ -75,5 +75,3 @@ This tool is intended for personal use only. Make sure you comply with [YouTubeâ
 - `tqdm` - For progress feedback (can be extended)
 
 ---
-
-Let me know if you want a GitHub-ready version with screenshots or badges!
